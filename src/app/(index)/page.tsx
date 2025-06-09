@@ -5,6 +5,7 @@ export default function Home() {
     <div>
       <div className="container">
         <Sort />
+        Home page!
       </div>
     </div>
   )
